@@ -166,37 +166,12 @@ scipy
 
 ## 📚 Bibliography
 
-Scikit-learn. (n.d.). *Model evaluation: ROC metrics*.  
-https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics  
-
-Scikit-learn. (n.d.). *Logistic regression*.  
-https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression  
-
-James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021).  
-*An introduction to statistical learning*. Springer.  
-https://www.statlearning.com/  
-
-World Health Organization. (n.d.).  
-*Cardiovascular diseases (CVDs)*.  
-https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)  
-
-Alotaibi, F. S. (2023).  
-*Heart disease prediction using machine learning techniques*.  
-PubMed Central.  
-https://pmc.ncbi.nlm.nih.gov/articles/PMC10378171/  
-
-Sharma, R., & Kumar, S. (2024).  
-*Clinical risk factors and predictive models for heart disease*.  
-PubMed Central.  
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12614364/  
-
-Kumar, A., & Patel, D. (2022).  
-*Heart disease prediction using logistic regression*.  
-ResearchGate.  
-https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression  
-
-Zhang, Y., et al. (2025).  
-*Machine learning approaches for heart disease prediction*.  
-*Scientific Reports*.  
-https://www.nature.com/articles/s41598-025-93675-1  
+Scikit-learn. (n.d.): https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics  
+Scikit-learn. (n.d.): https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression  
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021): https://www.statlearning.com/  
+World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)  
+Alotaibi, F. S. (2023): https://pmc.ncbi.nlm.nih.gov/articles/PMC10378171/  
+Sharma, R., & Kumar, S. (2024): https://pmc.ncbi.nlm.nih.gov/articles/PMC12614364/  
+Kumar, A., & Patel, D. (2022): https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression  
+Zhang, Y., et al. (2025): https://www.nature.com/articles/s41598-025-93675-1  
 
