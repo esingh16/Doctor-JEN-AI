@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="./images/beat.gif" alt="Heartbeat" width="250" />
+  <img src="./images/beat.gif" alt="Heartbeat" width="450" />
 </div>
 
 <div align="left">
