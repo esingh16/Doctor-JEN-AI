@@ -43,7 +43,7 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
 ## 📊 Exploratory Data Analysis (EDA)
 
 <p align="center">
-  <img src="images/eda_overview.png" width="750">
+  <img src="images/heatmap.png" width="750">
 </p>
 
 EDA focuses on **visual understanding** of feature distributions and relationships.
@@ -59,7 +59,7 @@ Includes:
 ## 📐 Statistical Analysis
 
 <p align="center">
-  <img src="images/stat_tests.png" width="650">
+  <img src="images/chisquare.png" width="650">
 </p>
 
 To support EDA findings:
