@@ -23,6 +23,7 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
 ---
 
 ## 📂 Dataset
+- https://archive.ics.uci.edu/dataset/45/heart+disease
 - Real clinical heart disease dataset  
 - Mixed numerical and categorical medical features  
 - Binary target: **Heart Disease (0 = No, 1 = Yes)**  
@@ -134,7 +135,7 @@ Evaluation includes:
 
 ---
 
-## 🔍 Inference (Optional Extension)
+## 🔍 Inference
 The trained models can be used to **infer heart disease risk for new patient records** by passing clinical attributes through the final trained pipeline.
 
 This demonstrates how machine learning models can support **clinical decision-making**, while emphasizing that such systems are **assistive tools** and not replacements for professional medical diagnosis.
