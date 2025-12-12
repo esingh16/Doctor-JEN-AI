@@ -33,6 +33,7 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
 <p align="center">
   <img src="images/heartfinal.png" width="750">
 </p>
+
 ---
 
 ## 🔧 Data Preparation
@@ -47,6 +48,7 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
+
 <p align="center">
   <img src="images/histogram.png" width="750">
 </p>
@@ -69,7 +71,7 @@ Includes:
 - Target class distribution  
 - Feature histograms and boxplots  
 - Correlation heatmap  
-- Clinical interpretation of **max heart rate** and **ST depression**
+- Clinical interpretation of **maximum heart rate** and **ST depression**
 
 ---
 
@@ -88,7 +90,7 @@ To support EDA findings:
 - Independent **t-tests** for numerical variables  
 - **Chi-square tests** for categorical variables  
 
-These tests distinguish **statistical association** from **predictive importance**.
+These tests help distinguish **statistical association** from **predictive importance**.
 
 ---
 
@@ -125,10 +127,17 @@ Each model follows the same:
 </p>
 
 Evaluation includes:
-- Accuracy, Precision, Recall, F1-score  
+- Accuracy, Precision, Recall, and F1-score  
 - ROC curves and AUC  
-- Feature importance (tree-based models)  
-- Overfitting analysis across tree depths  
+- Feature importance for tree-based models  
+- Overfitting analysis across different tree depths  
+
+---
+
+## 🔍 Inference (Optional Extension)
+The trained models can be used to **infer heart disease risk for new patient records** by passing clinical attributes through the final trained pipeline.
+
+This demonstrates how machine learning models can support **clinical decision-making**, while emphasizing that such systems are **assistive tools** and not replacements for professional medical diagnosis.
 
 ---
 
@@ -136,8 +145,8 @@ Evaluation includes:
 - **Maximum heart rate** and **ST depression** consistently emerge as the strongest predictors.
 - Some variables show statistical significance but limited contribution in multivariate models.
 - **Logistic Regression** offers stable performance and high interpretability.
-- **Decision Trees** capture non-linear patterns but overfit at higher depths.
-- Integrating **EDA, statistics, and ML** produces more reliable and explainable predictions.
+- **Decision Trees** capture non-linear patterns but may overfit at higher depths.
+- Integrating **EDA, statistics, and machine learning** produces more reliable and explainable predictions.
 
 ✔ A non-technical reader gains medical insight.  
 ✔ A technical reader gains modeling insight.
