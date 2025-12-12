@@ -32,7 +32,7 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
 
 ## 🧠 Model Architecture Diagram
 <p align="center">
-  <img src="images/heartfinal.png" width="650" height="450>
+  <img src="images/heartfinal.png" width="650" height="550>
 </p>
 
 ---
