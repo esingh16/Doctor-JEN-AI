@@ -8,7 +8,7 @@
   <img src="./images/beat.gif" alt="Heartbeat" width="250" />
 </div>
 
-<div align="center">
+<div align="left">
   🔗 <b>Live Tutorial:</b> https://esingh16.github.io/Doctor-JEN-AI/
 </div>
 
