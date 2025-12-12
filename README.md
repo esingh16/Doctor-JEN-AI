@@ -161,7 +161,7 @@ matplotlib
 seaborn
 scikit-learn
 scipy
-
+```
 ---
 
 ## 📚 Bibliography
