@@ -173,6 +173,6 @@ James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021): https://www.statlear
 World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)  
 Alotaibi, F. S. (2023): https://pmc.ncbi.nlm.nih.gov/articles/PMC10378171/  
 Sharma, R., & Kumar, S. (2024): https://pmc.ncbi.nlm.nih.gov/articles/PMC12614364/  
-Kumar, A., & Patel, D. (2022): https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression  
+Kumar, A., & Patel, D.(2022): https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression  
 Zhang, Y., et al. (2025): https://www.nature.com/articles/s41598-025-93675-1  
 
