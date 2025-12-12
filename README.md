@@ -29,6 +29,12 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
 
 ---
 
+## 🧠 Model Architecture Diagram
+<p align="center">
+  <img src="images/heartfinal.png" width="750">
+</p>
+---
+
 ## 🔧 Data Preparation
 - Renamed columns for interpretability  
 - Handled missing values  
@@ -41,9 +47,20 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
+<p align="center">
+  <img src="images/histogram.png" width="750">
+</p>
+
+<p align="center">
+  <img src="images/piechart.png" width="750">
+</p>
 
 <p align="center">
   <img src="images/heatmap.png" width="750">
+</p>
+
+<p align="center">
+  <img src="images/boxplot.png" width="750">
 </p>
 
 EDA focuses on **visual understanding** of feature distributions and relationships.
@@ -60,6 +77,10 @@ Includes:
 
 <p align="center">
   <img src="images/chisquare.png" width="650">
+</p>
+
+<p align="center">
+  <img src="images/pairwise.png" width="750">
 </p>
 
 To support EDA findings:
@@ -90,17 +111,17 @@ Each model follows the same:
 
 ### ROC Curve Comparison
 <p align="center">
-  <img src="images/roc_curves.png" width="750">
+  <img src="images/roc.png" width="750">
 </p>
 
 ### Decision Tree Feature Importance
 <p align="center">
-  <img src="images/feature_importance.png" width="650">
+  <img src="images/dt.png" width="650">
 </p>
 
 ### Decision Boundary Visualization
 <p align="center">
-  <img src="images/decision_boundary.png" width="650">
+  <img src="images/boundary.png" width="650">
 </p>
 
 Evaluation includes:
