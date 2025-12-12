@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="images/beat.png" width="650" height="550>
+</p>
+    
 ## 👥 Team
 - **Eshan Singh** (UID: 122115569)  
 - **Nicole Miranda** (UID: 116014687)  
