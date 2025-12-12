@@ -1,14 +1,13 @@
 # 🩺🤖 DOCTOR JEN-AI  
+<p align="center">
+  <img src="images/beat.gif" width="250" height="350>
+</p>
 **Heart Disease Prediction System**  
 *DATA 602 – Final Project Tutorial*
 
 🔗 **Live Tutorial:** https://esingh16.github.io/Doctor-JEN-AI/
 
 ---
-
-<p align="center">
-  <img src="images/beat.gif" width="650" height="550>
-</p>
     
 ## 👥 Team
 - **Eshan Singh** (UID: 122115569)  
