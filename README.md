@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="images/beat.png" width="650" height="550>
+  <img src="images/beat.gif" width="650" height="550>
 </p>
     
 ## 👥 Team
