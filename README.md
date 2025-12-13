@@ -15,11 +15,6 @@ DATA 602 – Final Project Tutorial
 
 <br/>
 
-<span style="background:#238636; color:white; padding:6px 12px; border-radius:12px;">Python</span>
-<span style="background:#1f6feb; color:white; padding:6px 12px; border-radius:12px;">Data Science</span>
-<span style="background:#8957e5; color:white; padding:6px 12px; border-radius:12px;">Machine Learning</span>
-<span style="background:#da3633; color:white; padding:6px 12px; border-radius:12px;">DATA 602</span>
-
 </div>
 
 ---
