@@ -1,58 +1,79 @@
-# 🩺🤖 DOCTOR JEN-AI  
-**Heart Disease Prediction System**  
-*DATA 602 – Final Project Tutorial*
-
----
-
 <div align="center">
-  <img src="./images/beat.gif" alt="Heartbeat" width="450" />
-</div>
 
-<div align="left">
-  🔗 <b>Live Tutorial:</b> https://esingh16.github.io/Doctor-JEN-AI/
+<h1 style="font-size:48px;">
+🩺🤖 <span style="color:#58a6ff;">DOCTOR</span> <span style="color:#7ee787;">JEN-AI</span>
+</h1>
+
+<h3 style="color:#c9d1d9;">
+Heart Disease Prediction System
+</h3>
+
+<p style="font-style:italic; color:#8b949e;">
+DATA 602 – Final Project Tutorial
+</p>
+
+<br/>
+
+<img src="./images/beat.gif" width="420" alt="Heartbeat Animation"/>
+
+<br/>
+
+<span style="background:#238636; color:white; padding:6px 12px; border-radius:12px;">Python</span>
+<span style="background:#1f6feb; color:white; padding:6px 12px; border-radius:12px;">Data Science</span>
+<span style="background:#8957e5; color:white; padding:6px 12px; border-radius:12px;">Machine Learning</span>
+<span style="background:#da3633; color:white; padding:6px 12px; border-radius:12px;">DATA 602</span>
+
 </div>
 
 ---
 
 ## 👥 Team
-- **Eshan Singh** (UID: 122115569)  
-- **Nicole Miranda** (UID: 116014687)  
-- **Jamiya Kirkland** (UID: 122328396)
+- **Eshan Singh** *(UID: 122115569)*  
+- **Nicole Miranda** *(UID: 116014687)*  
+- **Jamiya Kirkland** *(UID: 122328396)*  
 
 ---
 
 ## 🎯 Problem Definition
-Heart disease is a major global health concern.  
-This project develops a **machine-learning–based prediction system** to identify the presence of heart disease using patient clinical data.
+> **Heart disease is one of the leading causes of mortality worldwide.**
 
-**Objective:**  
-Demonstrate a complete **end-to-end data science pipeline** with emphasis on **code, visualizations, and interpretable insights**.
+This project presents an **end-to-end machine learning pipeline** that predicts the **presence of heart disease** using real patient clinical data.
+
+✨ Focus areas:
+- Clear **data exploration**
+- **Statistical validation**
+- Multiple **ML model comparisons**
+- **Interpretability over black-box predictions**
 
 ---
 
 ## 📂 Dataset
-- https://archive.ics.uci.edu/dataset/45/heart+disease
-- Real clinical heart disease dataset  
-- Mixed numerical and categorical medical features  
-- Binary target: **Heart Disease (0 = No, 1 = Yes)**  
+🧬 **Clinical Heart Disease Dataset**
+- Real-world medical attributes  
+- Numerical + categorical features  
+- Binary outcome:  
+  - `0` → No heart disease  
+  - `1` → Presence of heart disease  
 
 ---
 
-## 🧠 Model Architecture Diagram
+## 🧠 Model Architecture
 <p align="center">
-  <img src="images/heartfinal.png" width="650" height="550>
+  <img src="images/heartfinal.png" width="650" alt="Pipeline Diagram">
 </p>
+
+This diagram visually represents the **full workflow** from raw data to final inference.
 
 ---
 
 ## 🔧 Data Preparation
-- Renamed columns for interpretability  
-- Handled missing values  
-- Corrected data types  
-- Removed duplicates  
-- Applied feature scaling where required  
+✔ Renamed columns for readability  
+✔ Missing value handling  
+✔ Data type correction  
+✔ Duplicate removal  
+✔ Feature scaling  
 
-> All preprocessing steps are shown explicitly in code.
+> Every transformation is shown explicitly in code for transparency.
 
 ---
 
@@ -74,18 +95,15 @@ Demonstrate a complete **end-to-end data science pipeline** with emphasis on **c
   <img src="images/boxplot.png" width="750">
 </p>
 
-EDA focuses on **visual understanding** of feature distributions and relationships.
-
-Includes:
-- Target class distribution  
-- Feature histograms and boxplots  
-- Correlation heatmap  
-- Clinical interpretation of **maximum heart rate** and **ST depression**
+EDA provides **visual intuition** into:
+- Feature distributions  
+- Class imbalance  
+- Correlation patterns  
+- Clinically meaningful variables
 
 ---
 
 ## 📐 Statistical Analysis
-
 <p align="center">
   <img src="images/chisquare.png" width="650">
 </p>
@@ -94,71 +112,61 @@ Includes:
   <img src="images/pairwise.png" width="750">
 </p>
 
-To support EDA findings:
+🔍 Techniques used:
 - Correlation analysis  
-- Independent **t-tests** for numerical variables  
-- **Chi-square tests** for categorical variables  
+- Independent **t-tests**
+- **Chi-square tests**
 
-These tests help distinguish **statistical association** from **predictive importance**.
+These ensure results are **statistically grounded**, not just model-driven.
 
 ---
 
 ## 🤖 Machine Learning Models
-The following models are implemented and compared:
+Implemented models include:
 
-- **Logistic Regression**
-- **Decision Tree Classifier**
-- **Random Forest**
-- **Support Vector Machine (SVM)**
+🟢 Logistic Regression  
+🟡 Decision Tree  
+🔵 Random Forest  
+🟣 Support Vector Machine (SVM)
 
-Each model follows the same:
-- Train/test split  
-- Evaluation metrics  
-- Visualization strategy  
+All models follow a **consistent evaluation framework**.
 
 ---
 
 ## 📈 Model Performance & Visualization
 
-### ROC Curve Comparison
+### 🌈 ROC Curve Comparison
 <p align="center">
   <img src="images/roc.png" width="750">
 </p>
 
-### Decision Tree Feature Importance
+### 🌳 Decision Tree Feature Importance
 <p align="center">
   <img src="images/dt.png" width="650">
 </p>
 
-### Decision Boundary Visualization
+### 📐 Decision Boundary Visualization
 <p align="center">
   <img src="images/boundary.png" width="650">
 </p>
 
-Evaluation includes:
-- Accuracy, Precision, Recall, and F1-score  
-- ROC curves and AUC  
-- Feature importance for tree-based models  
-- Overfitting analysis across different tree depths  
-
----
-
-## 🔍 Inference
-The trained models can be used to **infer heart disease risk for new patient records** by passing clinical attributes through the final trained pipeline.
-
-This demonstrates how machine learning models can support **clinical decision-making**, while emphasizing that such systems are **assistive tools** and not replacements for professional medical diagnosis.
+Metrics analyzed:
+- Accuracy  
+- Precision / Recall  
+- F1-Score  
+- ROC-AUC  
+- Overfitting behavior  
 
 ---
 
 ## 🧠 Insights & Conclusions
-- **Maximum heart rate** and **ST depression** consistently emerge as the strongest predictors.
-- Some variables show statistical significance but limited contribution in multivariate models.
-- **Logistic Regression** offers stable performance and high interpretability.
-- **Decision Trees** capture non-linear patterns but may overfit at higher depths.
-- Integrating **EDA, statistics, and machine learning** produces more reliable and explainable predictions.
+⭐ **Maximum heart rate** and **ST depression** are the strongest predictors  
+⭐ Statistical significance ≠ predictive dominance  
+⭐ Logistic Regression balances performance and interpretability  
+⭐ Tree models capture non-linear patterns but risk overfitting  
 
-✔ A non-technical reader gains medical insight.  
-✔ A technical reader gains modeling insight.
+✔ Clear for non-technical readers  
+✔ Insightful for technical reviewers  
 
 ---
 
@@ -171,6 +179,7 @@ seaborn
 scikit-learn
 scipy
 ```
+
 ---
 
 ## 📚 Bibliography
