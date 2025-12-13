@@ -27,7 +27,7 @@ DATA 602 – Final Project Tutorial
 ---
 
 ## 🎯 Problem Definition
-> **Heart disease is one of the leading causes of mortality worldwide.**
+**Heart disease is one of the leading causes of mortality worldwide.**
 
 This project presents an **end-to-end machine learning pipeline** that predicts the **presence of heart disease** using real patient clinical data.
 
