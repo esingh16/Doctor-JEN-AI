@@ -51,7 +51,7 @@ This project presents an **end-to-end machine learning pipeline** that predicts 
 
 ## 🧠 Model Architecture
 <p align="center">
-  <img src="images/heartfinal.png" width="650" alt="Pipeline Diagram">
+  <img src="images/newheart.png" width="650" alt="Pipeline Diagram">
 </p>
 
 This diagram visually represents the **full workflow** from raw data to final inference.
