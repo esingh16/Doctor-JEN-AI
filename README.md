@@ -5,8 +5,8 @@
 </h1>
 
 <h3 style="color:#c9d1d9;">
-Heart Disease Prediction System
-  DATA 602 – Final Project Tutorial
+Heart Disease Prediction System <br>
+DATA 602 – Final Project Tutorial
 </h3>
 
 <br/>
