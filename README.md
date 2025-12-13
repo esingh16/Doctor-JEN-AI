@@ -6,11 +6,8 @@
 
 <h3 style="color:#c9d1d9;">
 Heart Disease Prediction System
+  DATA 602 – Final Project Tutorial
 </h3>
-
-<p style="font-style:italic; color:#8b949e;">
-DATA 602 – Final Project Tutorial
-</p>
 
 <br/>
 
