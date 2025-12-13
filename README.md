@@ -54,7 +54,7 @@ This project presents an **end-to-end machine learning pipeline** that predicts 
   <img src="images/newheart.png" width="650" alt="Pipeline Diagram">
 </p>
 
-This diagram visually represents the **full workflow** from raw data to final inference.
+This diagram visually represents the **full workflow** from raw data to final insights.
 
 ---
 
