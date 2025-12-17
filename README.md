@@ -17,7 +17,8 @@ DATA 602 – Final Project Tutorial
 
 <a href="https://esingh16.github.io/Doctor-JEN-AI/"><b>🌐 Live Tutorial</b></a> •
 <a href="#-model-performance--visualization"><b>📊 Results</b></a> •
-<a href="#-how-to-run"><b>⚙️ How to Run</b></a>
+- [⚙️ How to Run](#-how-to-run)
+
 
 <br/><br/>
 
