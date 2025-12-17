@@ -76,7 +76,8 @@ This project presents an **end-to-end machine learning pipeline** to predict the
 - Mixed numerical & categorical features  
 - Binary outcome:
   - `0` → No heart disease  
-  - `1` → Presence of heart disease  
+  - `1` → Presence of heart disease
+
 📌 This project exclusively uses the Cleveland subset of the UCI Heart Disease dataset.
 
 
