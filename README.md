@@ -5,7 +5,7 @@
 </h1>
 
 <h3 style="color:#c9d1d9;">
-Heart Disease Prediction System <br>
+Heart Disease Prediction System <br/>
 DATA 602 – Final Project Tutorial
 </h3>
 
@@ -13,9 +13,36 @@ DATA 602 – Final Project Tutorial
 
 <img src="./images/beat.gif" width="420" alt="Heartbeat Animation"/>
 
-<br/>
+<br/><br/>
+
+<a href="https://esingh16.github.io/Doctor-JEN-AI/"><b>🌐 Live Tutorial</b></a> •
+<a href="#-model-performance--visualization"><b>📊 Results</b></a> •
+<a href="#-how-to-run"><b>⚙️ How to Run</b></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3.x-blue"/>
+<img src="https://img.shields.io/badge/scikit--learn-ML-orange"/>
+<img src="https://img.shields.io/badge/status-complete-brightgreen"/>
+<img src="https://img.shields.io/badge/course-DATA%20602-purple"/>
 
 </div>
+
+---
+
+## 📌 Table of Contents
+- [👥 Team](#-team)
+- [🎯 Problem Definition](#-problem-definition)
+- [📂 Dataset](#-dataset)
+- [🧠 Model Architecture](#-model-architecture)
+- [🔧 Data Preparation](#-data-preparation)
+- [📊 Exploratory Data Analysis](#-exploratory-data-analysis-eda)
+- [📐 Statistical Analysis](#-statistical-analysis)
+- [🤖 Machine Learning Models](#-machine-learning-models)
+- [📈 Model Performance](#-model-performance--visualization)
+- [🧠 Insights & Conclusions](#-insights--conclusions)
+- [⚙️ How to Run](#️-how-to-run)
+- [📚 Bibliography](#-bibliography)
 
 ---
 
@@ -29,87 +56,86 @@ DATA 602 – Final Project Tutorial
 ## 🎯 Problem Definition
 **Heart disease is one of the leading causes of mortality worldwide.**
 
-This project presents an **end-to-end machine learning pipeline** that predicts the **presence of heart disease** using real patient clinical data.
+This project presents an **end-to-end machine learning pipeline** to predict the **presence of heart disease** using real patient clinical data.
 
-✨ Focus areas:
-- Clear **data exploration**
-- **Statistical validation**
+✨ **Focus Areas**
+- Structured **data exploration**
+- **Statistical hypothesis testing**
 - Multiple **ML model comparisons**
-- **Interpretability over black-box predictions**
+- Emphasis on **interpretability over black-box prediction**
 
 ---
 
 ## 📂 Dataset
 🧬 **Clinical Heart Disease Dataset**
 - Real-world medical attributes  
-- Numerical + categorical features  
-- Binary outcome:  
+- Mixed numerical & categorical features  
+- Binary outcome:
   - `0` → No heart disease  
   - `1` → Presence of heart disease  
 
 ---
 
 ## 🧠 Model Architecture
-<p align="center">
-  <img src="images/newheart.png" width="650" alt="Pipeline Diagram">
-</p>
-
-This diagram visually represents the **full workflow** from raw data to final insights.
+<div align="center">
+  <img src="images/newheart.png" width="700" alt="Pipeline Diagram"/>
+  <br/>
+  <i>End-to-end workflow from raw data to insights</i>
+</div>
 
 ---
 
 ## 🔧 Data Preparation
-✔ Renamed columns for readability  
+✔ Column renaming for clarity  
 ✔ Missing value handling  
 ✔ Data type correction  
 ✔ Duplicate removal  
 ✔ Feature scaling  
 
-> Every transformation is shown explicitly in code for transparency.
+> All transformations are explicitly shown in code to ensure **full transparency and reproducibility**.
 
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-<p align="center">
-  <img src="images/histogram.png" width="750">
-</p>
+<details>
+<summary><b>📈 Click to view EDA visualizations</b></summary>
 
-<p align="center">
-  <img src="images/piechart.png" width="750">
-</p>
+<br/>
 
-<p align="center">
-  <img src="images/heatmap.png" width="750">
-</p>
+<p align="center"><img src="images/histogram.png" width="750"></p>
+<p align="center"><img src="images/piechart.png" width="750"></p>
+<p align="center"><img src="images/heatmap.png" width="750"></p>
+<p align="center"><img src="images/boxplot.png" width="750"></p>
 
-<p align="center">
-  <img src="images/boxplot.png" width="750">
-</p>
-
-EDA provides **visual intuition** into:
+EDA provides intuition into:
 - Feature distributions  
 - Class imbalance  
-- Correlation patterns  
-- Clinically meaningful variables
+- Correlation structure  
+- Clinically meaningful variables  
+
+</details>
 
 ---
 
 ## 📐 Statistical Analysis
-<p align="center">
-  <img src="images/chisquare.png" width="650">
-</p>
 
-<p align="center">
-  <img src="images/pairwise.png" width="750">
-</p>
+<details>
+<summary><b>📐 Click to view statistical tests</b></summary>
 
-🔍 Techniques used:
+<br/>
+
+<p align="center"><img src="images/chisquare.png" width="650"></p>
+<p align="center"><img src="images/pairwise.png" width="750"></p>
+
+🔍 Techniques applied:
 - Correlation analysis  
 - Independent **t-tests**
 - **Chi-square tests**
 
-These ensure results are **statistically grounded**, not just model-driven.
+These ensure insights are **statistically validated**, not just model-driven.
+
+</details>
 
 ---
 
@@ -119,30 +145,24 @@ Implemented models include:
 🟢 Logistic Regression  
 🟡 Decision Tree  
 🔵 Random Forest  
-🟣 Support Vector Machine (SVM)
+🟣 Support Vector Machine (SVM)  
 
-All models follow a **consistent evaluation framework**.
+All models follow a **consistent training, tuning, and evaluation pipeline**.
 
 ---
 
 ## 📈 Model Performance & Visualization
 
 ### 🌈 ROC Curve Comparison
-<p align="center">
-  <img src="images/roc.png" width="750">
-</p>
+<p align="center"><img src="images/roc.png" width="750"></p>
 
 ### 🌳 Decision Tree Feature Importance
-<p align="center">
-  <img src="images/dt.png" width="650">
-</p>
+<p align="center"><img src="images/dt.png" width="650"></p>
 
 ### 📐 Decision Boundary Visualization
-<p align="center">
-  <img src="images/boundary.png" width="650">
-</p>
+<p align="center"><img src="images/boundary.png" width="650"></p>
 
-Metrics analyzed:
+📊 Metrics evaluated:
 - Accuracy  
 - Precision / Recall  
 - F1-Score  
@@ -153,35 +173,15 @@ Metrics analyzed:
 
 ## 🧠 Insights & Conclusions
 ⭐ **Maximum heart rate** and **ST depression** are the strongest predictors  
-⭐ Statistical significance ≠ predictive dominance  
-⭐ Logistic Regression balances performance and interpretability  
-⭐ Tree models capture non-linear patterns but risk overfitting  
+⭐ Statistical significance does **not always imply** predictive dominance  
+⭐ Logistic Regression offers the best balance of **performance + interpretability**  
+⭐ Tree-based models capture non-linear patterns but may **overfit without tuning**
 
-✔ Clear for non-technical readers  
-✔ Insightful for technical reviewers  
-
----
-
-## 🛠️ Tools & Libraries
-```python
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
-```
+✔ Accessible to non-technical readers  
+✔ Informative for technical evaluators  
 
 ---
 
-## 📚 Bibliography
-
-Scikit-learn. (n.d.): https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics  
-Scikit-learn. (n.d.): https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression  
-James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021): https://www.statlearning.com/  
-World Health Organization: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)  
-Alotaibi, F. S. (2023): https://pmc.ncbi.nlm.nih.gov/articles/PMC10378171/  
-Sharma, R., & Kumar, S. (2024): https://pmc.ncbi.nlm.nih.gov/articles/PMC12614364/  
-Kumar,A. & Patel,D.(2022): https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression  
-Zhang, Y., et al. (2025): https://www.nature.com/articles/s41598-025-93675-1  
-
+## ⚙️ How to Run
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
