@@ -77,6 +77,7 @@ This project presents an **end-to-end machine learning pipeline** to predict the
 - Binary outcome:
   - `0` → No heart disease  
   - `1` → Presence of heart disease  
+📌 This project exclusively uses the Cleveland subset of the UCI Heart Disease dataset.
 
 
 ---
@@ -194,13 +195,13 @@ Logistic Regression was selected as the final model due to its strong generaliza
 ---
 
 ## 🛠️ Tools & Libraries
-python
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
+- **Python**
+- **pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **scikit-learn**
+- **SciPy**
 
 --- 
 ## 📚 Bibliography
