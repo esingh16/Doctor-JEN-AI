@@ -205,7 +205,7 @@ scipy
   https://www.statlearning.com/
 * World Health Organization (CVDs):
   https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
-* Heart Disease Prediction Using Logistic Regression: https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
+* Heart Disease Prediction Using Log-Reg.: https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
 
 ---
 
