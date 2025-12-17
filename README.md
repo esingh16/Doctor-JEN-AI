@@ -41,9 +41,10 @@ DATA 602 – Final Project Tutorial
 - [🤖 Machine Learning Models](#-machine-learning-models)
 - [📈 Model Performance](#-model-performance--visualization)
 - [🧠 Insights & Conclusions](#-insights--conclusions)
-- [⚙️ How to Run](#️-how-to-run)
 - [📚 Bibliography](#-bibliography)
 - [❓ Key Questions Answered](#-key-questions-answered)
+- [✅ Reproducibility Checklist](#-reproducibility-checklist)
+- [⚙️ How to Run](#️-how-to-run)
   
 ---
 
