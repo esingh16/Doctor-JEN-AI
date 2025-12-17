@@ -203,9 +203,9 @@ scipy
   https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
 * James, G., Witten, D., Hastie, T., and Tibshirani, R. An Introduction to Statistical Learning:
   https://www.statlearning.com/
-* World Health Organization. Cardiovascular Diseases (CVDs):
+* World Health Organization (CVDs):
   https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
-* ResearchGate. Heart Disease Prediction Using Logistic Regression:
+* Heart Disease Prediction Using Logistic Regression:
   https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
 
 ---
