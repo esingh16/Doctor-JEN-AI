@@ -16,8 +16,8 @@ DATA 602 – Final Project Tutorial
 <br/><br/>
 
 <a href="https://esingh16.github.io/Doctor-JEN-AI/"><b>🌐 Live Tutorial</b></a> •
-<a href="#model-performance--visualization"><b>📊 Results</b></a> •
-<a href="#how-to-run"><b>⚙️ How to Run</b></a>
+<a href="#-model-performance--visualization"><b>📊 Results</b></a> •
+<a href="#-how-to-run"><b>⚙️ How to Run</b></a>
 
 <br/><br/>
 
@@ -31,19 +31,18 @@ DATA 602 – Final Project Tutorial
 ---
 
 ## 📌 Table of Contents
-- [👥 Team](#team)
-- [🎯 Problem Definition](#problem-definition)
-- [📂 Dataset](#dataset)
-- [🧠 Model Architecture](#model-architecture)
-- [🔧 Data Preparation](#data-preparation)
-- [📊 Exploratory Data Analysis](#exploratory-data-analysis-eda)
-- [📐 Statistical Analysis](#statistical-analysis)
-- [🤖 Machine Learning Models](#machine-learning-models)
-- [📈 Model Performance](#model-performance--visualization)
-- [🧠 Insights & Conclusions](#insights--conclusions)
-- [⚙️ How to Run](#how-to-run)
-- [📚 Bibliography](#bibliography)
-
+- [👥 Team](#-team)
+- [🎯 Problem Definition](#-problem-definition)
+- [📂 Dataset](#-dataset)
+- [🧠 Model Architecture](#-model-architecture)
+- [🔧 Data Preparation](#-data-preparation)
+- [📊 Exploratory Data Analysis](#-exploratory-data-analysis-eda)
+- [📐 Statistical Analysis](#-statistical-analysis)
+- [🤖 Machine Learning Models](#-machine-learning-models)
+- [📈 Model Performance](#-model-performance--visualization)
+- [🧠 Insights & Conclusions](#-insights--conclusions)
+- [⚙️ How to Run](#️-how-to-run)
+- [📚 Bibliography](#-bibliography)
 
 ---
 
@@ -205,8 +204,6 @@ scipy
 ---
 
 ## ⚙️ How to Run
-````md
-## How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
