@@ -197,8 +197,12 @@ scipy
 ## 📚 Bibliography 
 * Scikit-learn. Model Evaluation: ROC Metrics. https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics
 * Scikit-learn. Logistic Regression Documentation. https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
-* James, G., Witten, D., Hastie, T., and Tibshirani, R. An Introduction to Statistical Learning. https://www.statlearning.com/
-* World Health Organization. Cardiovascular Diseases (CVDs). https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
-* ResearchGate. Heart Disease Prediction Using Logistic Regression. https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
+* James, G., Witten, D., Hastie, T., and Tibshirani, R. An Introduction to Statistical Learning: https://www.statlearning.com/
+* World Health Organization. Cardiovascular Diseases (CVDs): https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+* ResearchGate. Heart Disease Prediction Using Logistic Regression: https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
 
 ---
+
+## ⚙️ How to Run
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
