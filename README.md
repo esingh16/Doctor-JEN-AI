@@ -43,7 +43,8 @@ DATA 602 – Final Project Tutorial
 - [🧠 Insights & Conclusions](#-insights--conclusions)
 - [⚙️ How to Run](#️-how-to-run)
 - [📚 Bibliography](#-bibliography)
-
+- [❓ Key Questions Answered](#-key-questions-answered)
+  
 ---
 
 ## 👥 Team
