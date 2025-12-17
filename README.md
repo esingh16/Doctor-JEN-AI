@@ -104,6 +104,7 @@ This project presents an **end-to-end machine learning pipeline** to predict the
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
+The following analysis explores feature distributions and relationships to guide downstream modeling decisions.
 
 <details>
 <summary><b>📈 Click to view EDA visualizations</b></summary>
@@ -191,6 +192,8 @@ Logistic Regression was selected as the final model due to its strong generaliza
 
 ✔ Accessible to non-technical readers  
 ✔ Informative for technical evaluators  
+
+⚠️ Results are limited by dataset size and may not generalize to all populations without external validation.
 
 
 ---
