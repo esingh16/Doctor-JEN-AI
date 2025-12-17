@@ -201,6 +201,15 @@ scipy
 * World Health Organization. Cardiovascular Diseases (CVDs): https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 * ResearchGate. Heart Disease Prediction Using Logistic Regression: https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
 
+---
+
+## ❓ Key Questions Answered
+
+- **Key features:** Maximum heart rate, ST depression  
+- **Best interpretable model:** Logistic Regression  
+- **Stats vs models:** Largely consistent, not always equal importance  
+- **Tradeoff:** Trees fit complex patterns; LR generalizes better
+
 --- 
 
 ## ✅ Reproducibility Checklist
