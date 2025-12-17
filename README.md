@@ -17,8 +17,7 @@ DATA 602 – Final Project Tutorial
 
 <a href="https://esingh16.github.io/Doctor-JEN-AI/"><b>🌐 Live Tutorial</b></a> •
 <a href="#-model-performance--visualization"><b>📊 Results</b></a> •
-- [⚙️ How to Run](#-how-to-run)
-
+<a href="#-how-to-run"><b>⚙️ How to Run</b></a>
 
 <br/><br/>
 
@@ -246,4 +245,3 @@ scipy
 ## ⚙️ How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
-
