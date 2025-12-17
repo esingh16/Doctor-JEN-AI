@@ -70,11 +70,14 @@ This project presents an **end-to-end machine learning pipeline** to predict the
 
 ## 📂 Dataset
 🧬 **Clinical Heart Disease Dataset**
-- Real-world medical attributes  
+- **Source:** UCI Machine Learning Repository (Cleveland subset)
+- **Observations:** 303 patients
+- **Features:** 13 clinical attributes
 - Mixed numerical & categorical features  
 - Binary outcome:
   - `0` → No heart disease  
   - `1` → Presence of heart disease  
+
 
 ---
 
@@ -164,6 +167,9 @@ All models follow a **consistent training, tuning, and evaluation pipeline**.
 ### 📐 Decision Boundary Visualization
 <p align="center"><img src="images/boundary.png" width="650"></p>
 
+## Logistic Regression was selected as the final model due to its strong generalization, stability, and interpretability—critical requirements in healthcare applications.
+
+
 📊 Metrics evaluated:
 - Accuracy  
 - Precision / Recall  
@@ -195,17 +201,26 @@ scikit-learn
 scipy
 
 --- 
+## 📚 Bibliography
 
-## 📚 Bibliography 
-* Scikit-learn. Model Evaluation: ROC Metrics:
+1. Scikit-learn Documentation – Model Evaluation (ROC Metrics):  
    https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics
-* Scikit-learn. Logistic Regression Documentation:
-  https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
-* James, G., Witten, D., Hastie, T., and Tibshirani, R. An Introduction to Statistical Learning:
-  https://www.statlearning.com/
-* World Health Organization (CVDs):
-  https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
-* ResearchGate Log-Reg.: https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
+
+2. Scikit-learn Documentation – Logistic Regression:  
+   https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+
+3. James, G., Witten, D., Hastie, T., Tibshirani, R.  
+   *An Introduction to Statistical Learning*:  
+   https://www.statlearning.com/
+
+4. World Health Organization.  
+   Cardiovascular Diseases (CVDs):  
+   https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
+5. ResearchGate.  
+   Heart Disease Prediction Using Logistic Regression:  
+   https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
+
 
 ---
 
