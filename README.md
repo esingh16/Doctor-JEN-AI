@@ -167,7 +167,9 @@ All models follow a **consistent training, tuning, and evaluation pipeline**.
 ### 📐 Decision Boundary Visualization
 <p align="center"><img src="images/boundary.png" width="650"></p>
 
-## Logistic Regression was selected as the final model due to its strong generalization, stability, and interpretability—critical requirements in healthcare applications.
+**Model Selection Rationale:**  
+Logistic Regression was selected as the final model due to its strong generalization, stability, and interpretability—critical requirements in healthcare applications.
+
 
 
 📊 Metrics evaluated:
