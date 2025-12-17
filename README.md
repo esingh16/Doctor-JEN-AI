@@ -11,7 +11,7 @@ DATA 602 – Final Project Tutorial
 
 <br/>
 
-<img src="./images/beat.gif" width="420" alt="Heartbeat Animation"/>
+<img src="./images/doctorji.png" width="420" alt="Heartbeat Animation"/>
 
 <br/><br/>
 
