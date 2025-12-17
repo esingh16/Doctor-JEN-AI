@@ -201,6 +201,15 @@ scipy
 * World Health Organization. Cardiovascular Diseases (CVDs): https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 * ResearchGate. Heart Disease Prediction Using Logistic Regression: https://www.researchgate.net/publication/368848738_Heart_Disease_Prediction_Using_Logistic_Regression
 
+--- 
+
+## ✅ Reproducibility Checklist
+- [x] Clear preprocessing steps
+- [x] EDA visualizations included
+- [x] Statistical testing included
+- [x] Multiple models compared
+- [x] Interpretable results & insights
+
 ---
 
 ## ⚙️ How to Run
